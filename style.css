@@ -1,0 +1,12 @@
+body {
+    color: red;
+}
+div {
+    display: flex;
+    justify-content: space-between;
+}
+@media(max-width: 600px ) {
+    body {
+        color: black;
+    }
+}
